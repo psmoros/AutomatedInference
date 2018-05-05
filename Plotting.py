@@ -1,5 +1,5 @@
 import graphviz as gv
-import src.Model as Model
+import Model
 
 default_style = {
     'graph': {

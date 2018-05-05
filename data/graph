@@ -3,12 +3,13 @@ digraph {
 	node [shape=circle]
 	edge [arrowhead=open]
 	b [label=b color=red]
-	v [label=v color=red]
+	d [label=d color=red]
 	c [label=c color=red]
-	v -> d
-	a -> c
+	a -> e
 	a -> b
+	b -> a
+	e -> e
+	a -> c
+	b -> e
 	a -> d
-	a -> v
-	v -> a
 }

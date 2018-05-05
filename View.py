@@ -1,6 +1,6 @@
 import tkinter as tk
-import src.Model as Model
-import src.Plotting as Plotting
+import Model
+import Plotting
 import shutil
 from PIL import ImageTk
 
