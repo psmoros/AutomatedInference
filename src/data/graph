@@ -1,0 +1,14 @@
+digraph {
+	graph [rankdir=LR]
+	node [shape=circle]
+	edge [arrowhead=open]
+	b [label=b color=red]
+	v [label=v color=red]
+	c [label=c color=red]
+	v -> d
+	a -> c
+	a -> b
+	a -> d
+	a -> v
+	v -> a
+}
