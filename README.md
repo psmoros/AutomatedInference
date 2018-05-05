@@ -8,7 +8,7 @@ This system is an MIT licenced open source educational tool for visualising argu
 ![Alt Text](https://media.giphy.com/media/2dbYilbYsuuskwfza1/giphy.gif)
 ## Prerequisites
 
-  - Make sure you have Python 3.6 or above installed on your computer
+  - Make sure you have Python 3 or above installed on your computer
   - Install GraphViz from http://graphviz.org/download/
 
 ## Run
