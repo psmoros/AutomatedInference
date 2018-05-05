@@ -1,6 +1,6 @@
 # Automated inference for abstract argumentation frameworks
 
-This system is an educational tool for visualising arguments and their attack relations and infering all the sets of arguments that can co-exist in a rational manner.
+This system is an MIT licenced open source educational tool for visualising arguments and their attack relations and infering all the sets of arguments that can co-exist in a rational manner.
 
 `Don't be quick to alter your understanding of argumentation theory if an inference is counter-intuitive. Although tested and evaluated, this appliciation may occasionally draw false inferences since debugging is an open ended task. Consult an expert if in doubt.`
 
