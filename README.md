@@ -32,7 +32,8 @@ pip3 install Pillow
 ## Run
 
 The application runs from View.py
-Make sure to use Python 3 to run it.
+
+Make sure you're using Python 3 to run it.
 
  - Launch Terminal
  - Type "cd " (w/ space) and drag & drop the folder downloaded from github once unzipped.
