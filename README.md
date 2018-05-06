@@ -8,16 +8,33 @@ This system is an MIT licenced open source educational tool for visualising argu
 ![Alt Text](https://media.giphy.com/media/2dbYilbYsuuskwfza1/giphy.gif)
 ## Prerequisites
 
+All commands are directed at Mac users and should be parsed into a Terminal prompt.
+
   - Make sure you have Python 3 or above installed on your computer
-  - Install GraphViz from http://graphviz.org/download/
+  ```sh
+  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  brew install python3
+  ```
+  - Make sure pip3 is installed
+  ```sh
+sudo easy_install pip3
+```
+  - Install Graphviz via pip3
+  ```sh
+pip3 install graphviz
+```
+  - Install Pillow (formerly known as PIL) via pip3
+```sh
+pip3 install Pillow
+```
+  
 
 ## Run
 
 The application runs from View.py
 Make sure to use Python 3 to run it.
 
-Mac users:
- - Open Terminal
+ - Launch Terminal
  - Type "cd " (w/ space) and drag & drop the folder downloaded from github once unzipped.
  - Type
 ```sh
