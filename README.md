@@ -1,4 +1,4 @@
-# Automated inference in abstract argumentation frameworks
+# Automated inference: Reasoning in abstract argumentation frameworks
 
 This system is an MIT licenced open source educational tool for visualising arguments and their attack relations and infering all the sets of arguments that can co-exist in a rational manner.
 
@@ -68,3 +68,9 @@ You can add arguments at any time and update the semantics with the evaluate but
 `The system significantly slows down after the addition of 14 arguments so avoid going above that number.`
 
 If, at any time you want to start over, press Clear from the bottom right hand side.
+
+## Feedback
+
+If you notice any bugs or have any efficiency improvements to propose, please push your code and I will review it.
+If your contribution improves/fixes some part of the system I will merge your code and add you to the contributors.
+If you're not a programmer, please report the issue or improvement proposal to pavlosmoros@yahoo.com .
