@@ -8,7 +8,7 @@ This system is an MIT licenced open source educational tool for visualising argu
 ![Alt Text](https://media.giphy.com/media/2dbYilbYsuuskwfza1/giphy.gif)
 ## Prerequisites
 
-All commands are directed at Mac users and should be parsed into a Terminal prompt.
+All commands are directed at Mac and Linux users and should be parsed into a Terminal prompt.
 
   - Make sure you have Python 3 or above installed on your computer
   ```sh
